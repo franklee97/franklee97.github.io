@@ -10,6 +10,7 @@ tiled_bg:           false   # Set this true if you want to tile your background 
 locale:             en_US
 resume:             'assets/etc/Frank_Lee_Resume.pdf'
 url:                'http://localhost:4000'
+baseurl:            franklee.dev
 
 # Jekyll
 permalink:          /:title/
